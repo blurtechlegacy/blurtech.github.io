@@ -1,0 +1,88 @@
+<rss version="2.0">
+
+<channel>
+  <title>Blurred Technologies - News</title>
+  <link>https://blur.tech</link>
+  <description>We are a crew of students that develops various software solutions to gain experience and make the world better. Blurred Technologies - blurs your life.</description>
+    <item turbo="true">
+    <title>Blurred Technologies: Results of the year.</title>
+    <link>https://blur.tech/news/results-of-the-year</link>
+    <turbo>true</turbo>
+    <turbo:content>
+      <![CDATA[This year was very productive for us. Our team was replenished with two new members: Denis Korotkov and Alexander Bobrov. Next year they will fully connect to the development of the server-side Hook-a-Book.</br></br>
+
+During this year, our team members participated in one hackathon, in four CTFs, at Hacktoberfest, made three presentations at the ITC and participated in the project school.</br></br>
+
+We have updated our site (<a href="https://blur.tech">blur.tech</a>). And within the framework of the EnergyHack hackathon, we wrote a prototype of the Sphinx application - an application for monitoring the alarm states of discrete sensors. At the project school SIFT Eventhub - an application for organizing events. Also we are currently working on a Hook-a-Book project for a student book exchange.</br></br>
+
+We have ideas for other applications and thoughts on the development of existing projects. We want to completely revise our current approach to the server infrastructure and look towards microservices. We want to deploy our own GitLab and service control panel, set up CI/CD. So we have things to do in the near future.</br></br>
+
+Thanks to those who follows and support us! What we do is really important for us and we try to do cool stuff! Happy New Year and may the Odds be Ever in your Favor.]]>
+    </turbo:content>
+    <description>Thanks to those who follows and support us! What we do is really important for us and we try to do cool stuff! Happy New Year and may the Odds be Ever in your Favor.</description>
+  </item>
+  <item turbo="true">
+    <title>The Internet we deserved.</title>
+    <link>https://blur.tech/news/the-internet-we-deserved</link>
+    <turbo>true</turbo>
+    <turbo:content>
+      <![CDATA[Some of our team has been following Mozilla for a very long time. Imagine, we are so young that we did not find the Internet without such giants as Google, Microsoft, etc. We are the ones who entered the game when it is already difficult to change something.</br></br>
+
+The only way to resist the lack of neutrality of the Internet to support open initiatives. Such as Mozilla.</br></br>
+
+I advise you look at fresh (but not new) idea of Mozilla <a href="https://monitor.firefox.com">monitor.firefox.com</a>. Mailing lists of interest to you can be found <a href="https://lists.mozilla.org">lists.mozilla.org</a>. Donatation can help on <a href="https://donate.mozilla.org">donate.mozilla.org</a>.</br></br>
+
+Join in defenders of the internet, save the Internet with Mozilla!</br></br>
+
+#SaveTheInternetWithMozilla]]>
+    </turbo:content>
+    <description>The only way to resist the lack of neutrality of the Internet to support open initiatives. Such as Mozilla.</description>
+  </item>
+  <item turbo="true">
+    <title>Blurred Technologies and Open Source contribution.</title>
+    <link>https://blur.tech/news/open-source-contribution</link>
+    <turbo>true</turbo>
+    <turbo:content>
+      <![CDATA[In October Digital Ocean together with Github and Twilio held the fifth Hacktoberfest. The main purpose is developing open source movement, as well as attracting new people into it. The challenge was to make 5 pull requests into Open Source projects on the Github. 46088 people made 401231 pull requests in 105074 different repositories.</br></br>
+
+Our team also participated in this event. Sergey Grechishnikov (SrgGrch) and Alexandr Sidorenko (MacOSO) made 5 pull requests each. They have already been sent prizes for participating in the project: commemorative Hackoberfest T-shirt and stickers.</br></br>
+
+Also out of scoring, Alexandr Sidorenko (MacOSO) made a commit to the Gnome environment browser - Epiphany. The commit fixed a search error: due to the fact that the developers did not add “.com” a google domain when entering a search query in the Russian version of the browser, no search query was performed. A simple solution of a few characters corrected the error.</br></br>
+
+Open Source is not only useful because society moves forward, but as it turned out it is easy!]]>
+    </turbo:content>
+    <description>Our team also participated in this event. Sergey Grechishnikov (SrgGrch) and Alexandr Sidorenko (MacOSO) made 5 pull requests each.</description>
+  </item>
+  <item turbo="true">
+    <title>Blurred Technologies and education.</title>
+    <link>https://blur.tech/news/education</link>
+    <turbo>true</turbo>
+    <turbo:content>
+      <![CDATA[This year we have become one of initiators of IT Community in <a href="http://nstu.ru">Novosobirsk State Technical University</a> and also performed with a several reports.</br></br>
+
+From Blurred Technologies spoke Sergey Grechishnikov (SrgGrch) and Alexandr Sidorenko (MacOSO). First report was dedicated to <a href="vk.com/wall-170729066_75">OS and command prompt</a>. Second one was <a href="vk.com/wall-170729066_116">introduction in Android development</a>.</br></br>
+
+Next year we are going to conduct couple workshop to practices with students.]]>
+    </turbo:content>
+    <description>This year we have become one of initiators of IT Community in Novosobirsk State Technical University and also performed with a several reports.</description>
+  </item>
+  <item turbo="true">
+    <title>Did you know?</title>
+    <link>https://blur.tech/news/did-you-know</link>
+    <turbo>true</turbo>
+    <turbo:content>
+      <![CDATA[That on March 28, 2019 there will already be the first version of our project Hook-a-Book. We are going to develop a minimal viable product and present it at the conference at the <a href="http://nstu.ru">Novosobirsk State Technical University</a></br></br>
+
+Follow the news of our project on our pages in social networks and the official website of the organization.</br></br>
+
+Official website: <a href="https://blur.tech">blur.tech</a></br>
+VK: <a href="">vk.com/blurtech</a></br>
+Twitter: <a href="https://twitter.com/blur_tech">twitter.com/blur_tech</a></br>
+Facebook: <a href="https://www.facebook.com/blurredtechnologies">facebook.com/blurredtechnologies</a></br>
+Telegram: <a href="https://t.me/blurtech">t.me/blurtech</a>]]>
+    </turbo:content>
+    <description>That on March 28, 2019 there will already be the first version of our project Hook-a-Book. We are going to develop a minimal viable product and present it at the conference at the Novosobirsk State Technical University.</description>
+  </item>
+</channel>
+
+</rss>

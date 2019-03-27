@@ -43,6 +43,15 @@
   <meta name="DC.Language" content="en-EN">
   <meta name="DC.Identifier" content="https://blur.tech/projects">
   <meta name="DC.Rights" content="Copyleft">
+  <script>
+      document.addEventListener('visibilitychange', () => {
+          const isVisible = !document.hidden;
+          if (isVisible) {
+              document.querySelector('[rel="icon"]').href = '../assets/pictures/favicons/black/favicon-32x32.png';
+          } else {
+              document.querySelector('[rel="icon"]').href = '../assets/pictures/favicons/favicon-32x32.png';
+          }});
+  </script>
   <script type="application/ld+json">
   {
   "@context": "http://schema.org",

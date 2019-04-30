@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<h1 class="glitch" data-text="{{ page.list_title | default: "Projects" }}">{{ page.list_title | default: "Projects" }}
+</h1>
+<nav>
+  <a href="/">goto main;</a>
+  <a href="/about">/about</a>
+  {%- for post in site.categories.project -%}
+  <a href="/projects#{{post.tag}}">{{post.name}}</a>
+  {%- endfor -%}
+</nav>
+<div class="content">
+    {%- for post in site.categories.project -%}
+    <div class="project">
+    <u><a name="{{ post.tag }}" target="_blank" href="{{ post.link }}"><h2 class="nuckles">{{ post.name }}</h2></a></u>  
+      {{ post.content }}
+    </div>
+    {%- endfor -%}
+</div>

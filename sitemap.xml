@@ -18,9 +18,5 @@
   <loc>https://blur.tech/projects/</loc>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://hab.blur.tech/</loc>
-  <priority>1.00</priority>
-</url>
 
 </urlset>

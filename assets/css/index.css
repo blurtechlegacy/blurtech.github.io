@@ -1,0 +1,46 @@
+@font-face {
+    font-family: Geometria-Bold;
+    src: url(../fonts/Geometria-Bold.otf)
+}
+
+body {
+    background: #000;
+    font-family: "Geometria-Bold";
+    padding: 20px
+}
+
+.wrap {
+    font-family: "Geometria-Bold";
+    position: relative
+}
+
+nav {
+    font-family: "Geometria-Bold";
+    position: relative;
+}
+
+a, a:visited {
+    margin-left: 1em;
+    text-decoration: none;
+    color: white;
+}
+
+a:active {
+    color: grey;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+.content {
+    padding-top: 1em;
+    color: white;
+    text-align: justify;
+    margin: 1em 1em 1em 1em;
+}

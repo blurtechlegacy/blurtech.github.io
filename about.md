@@ -11,4 +11,4 @@ Our main connecting factor is the general idea. We all want to get the experienc
 Blurred Technologies - blurs your life.  
 >  
 
-[__VK__](https://vk.com/blurtech) [__Twitter__](https://twitter.com/blur_tech) [__Facebook__](https://facebook.com/blurredtechnologies) [__Telegram__](https://t.me/blurtech)  
+[__VK__](https://vk.blur.tech/) [__Twitter__](https://twitter.blur.tech/) [__Facebook__](https://facebook.blur.tech/) [__Telegram__](https://telegram.blur.tech/)  
